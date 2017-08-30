@@ -1,6 +1,6 @@
 <?php
 
-  public function getStructureProducts(){
+	public function getStructureProducts(){
 		
 		$return_array = array();
 		
